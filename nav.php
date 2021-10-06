@@ -83,16 +83,23 @@
                                                             class="sf-depth-1 main-menu__item-link menuparent">Message</a>
                                                         </li>
 
-                                                        <li id="main-menu-link-content9601e491-1b1a-4a72-8dfa-5d2a0b7f4ff8"
-                                                        class="sf-depth-1 main-menu__item menuparent"><a href="celebration.php"
-                                                            class="sf-depth-1 main-menu__item-link menuparent">Celebration</a>
+                                                        <li id="main-menu-l ink-content9601e491-1b1a-4a72-8dfa-5d2a0b7f4ff8"
+                                                        class="sf-depth-1 main-menu__item menuparent"><a href="carte.php"
+                                                            class="sf-depth-1 main-menu__item-link menuparent">Célébrations</a>
+                                                            
                                                         </li>
+
 
                                                         <li id="main-menu-link-content9601e491-1b1a-4a72-8dfa-5d2a0b7f4ff8"
                                                         class="sf-depth-1 main-menu__item menuparent"><a href="avis.php"
                                                             class="sf-depth-1 main-menu__item-link menuparent">Vos avis</a>
                                                             
-                                                        </li>
+                                                        </li>   
+
+
+                                                        
+
+
                                                     </ul>
 
                                                 </div>

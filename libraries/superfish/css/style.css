@@ -1,0 +1,14 @@
+.map-svg path, .map-svg polygon{
+    
+    stroke: #FFF;
+    stroke-width: 3px;
+    width:50%;
+  }
+  
+  
+  .map-svg path:hover,.map-svg polygon:hover{
+      fill:#05570c;
+      stroke: #FFF;
+      stroke-width: 3px;
+      transition: fill 1S;
+    }
