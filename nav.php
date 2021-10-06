@@ -93,6 +93,16 @@
                                                             class="sf-depth-1 main-menu__item-link menuparent">Vos avis</a>
                                                             
                                                         </li>
+
+
+                                                        <li id="main-menu-link-content9601e491-1b1a-4a72-8dfa-5d2a0b7f4ff8"
+                                                        class="sf-depth-1 main-menu__item menuparent"><a href="carte.php"
+                                                            class="sf-depth-1 main-menu__item-link menuparent">Cartographie</a>
+                                                            
+                                                        </li>
+
+
+
                                                     </ul>
 
                                                 </div>
