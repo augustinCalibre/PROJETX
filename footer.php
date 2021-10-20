@@ -12,8 +12,8 @@
                                     class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item">
                                     <p class="footer__logo"><img src="themes/unwto/images/amoirie.png" class="app-header__sdg_logo sdg_logo_w" /></p>
     
-                                    <p class="footer__text">Lorem<br />
-                                        Abidjan , COCODY<br /><a href="mailto:#">Lorem@Lorem.ci</a></p>
+                                    <p class="footer__text">Logo du ministère de la réconcialiation et de la cohésion social <br/>
+                                        Abidjan , COCODY<br /><a href="mailto:#">@email et contacts</a></p>
                                 </div>
     
                             </div>
@@ -90,8 +90,8 @@
                                                 <a href="index.html" data-drupal-link-system-path="node/63">Accueil</a>
                                             </li>
                                             <li class="menu-item footer__link footer__item">
-                                                <a href="apropos.html"
-                                                    data-drupal-link-system-path="node/78">A propos</a>
+                                                <a href=""
+                                                    data-drupal-link-system-path="node/78">A propos de nous </a>
                                             </li>
 
                                             <li class="menu-item footer__link footer__item">
@@ -99,10 +99,8 @@
                                                     data-drupal-link-system-path="node/78">contexte</a>
                                             </li>
 
-                                            <li class="menu-item footer__link footer__item">
-                                                <a href="message.html"
-                                                    data-drupal-link-system-path="node/78">Message</a>
-                                            </li>
+                                            <
+    
     
                                             
                                            
@@ -117,30 +115,19 @@
                                         <a href="aprops-de-la-journee.html" data-drupal-link-system-path="node/112">Journée de la paix</a>
                                         <ul class="menu submenu">
     
-                                           
-    
-                                            <li class="menu-item footer__link footer__item">
-                                                <a href="avis.html"
-                                                    data-drupal-link-system-path="node/10067">avis</a>
+                                        li class="menu-item footer__link footer__item">
+                                                <a href="message.html"
+                                                    data-drupal-link-system-path="node/78">Message</a>
                                             </li>
-    
                                             <li class="menu-item footer__link footer__item">
-                                                <a href="carte-31-regions.html" data-drupal-link-system-path="news">Cartographie</a>
-                                            </li>
-    
-                                            
-    
-                                            <li class="menu-item footer__link footer__item">
-                                                <a href="publications.html"
-                                                    data-drupal-link-system-path="publications">Publications</a>
+                                                <a href="message.html"
+                                                    data-drupal-link-system-path="node/78">Evenement</a>
                                             </li>
     
                                         </ul>
     
                                     </li>
-                                    <!-- <div class="footer__sdg-logo">
-                                        <img style="width: 200px;height:10rem;" src="themes/unwto/images/Fairplay.jpg" />
-                                    </div> -->
+                                   
                                 </ul>
     
     
@@ -156,4 +143,4 @@
     
             </div>
             
-        </footer>
+</footer>
