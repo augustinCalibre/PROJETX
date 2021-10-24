@@ -1,4 +1,6 @@
-.map-svg path, .map-svg polygon{
+
+
+ .map-svg polygon{
     
     stroke: #FFF;
     stroke-width: 3px;
