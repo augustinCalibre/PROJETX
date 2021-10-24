@@ -12,3 +12,23 @@
       stroke-width: 3px;
       transition: fill 1S;
     }
+
+
+    #H {
+      background: url("https://media.istockphoto.com/photos/abstract-green-background-picture-id689323732?k=20&m=689323732&s=170667a&w=0&h=kiHwXAOV5A0qEFbqDmIz72tzul2MeZH653T3qWCdIOQ=") no-repeat center top;
+      padding-top: 150px;
+      text-align: center;
+      background-attachment: relative;
+      background-position: center center;
+      min-height: 700px;
+      width: 100%;
+      color: white;
+      -webkit-background-size: 100%;
+      -moz-background-size: 100%;
+      -o-background-size: 100%;
+      background-size: 100%;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+    }
