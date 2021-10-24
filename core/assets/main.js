@@ -5,6 +5,30 @@ const minu = document.getElementById("min")
 const sec = document.getElementById("sec");
 
 
+
+
+
+// counters.forEach( counter => {
+//    const animate = () => {
+//       const value = +counter.getAttribute('akhi');
+//       const data = +counter.innerText;
+     
+//       const time = value / speed;
+//      if(data < value) {
+//           counter.innerText = Math.ceil(data + time);
+//           setTimeout(animate, 1);
+//         }else{
+//           counter.innerText = value;
+//         }
+     
+//    }
+   
+//    animate();
+// });
+
+
+
+
 const currentYear=new Date().getFullYear();
 
 const peaceDay= new Date(`November 11 ${currentYear} 00:00:00`);
@@ -26,10 +50,20 @@ function contDown() {
     heure.innerHTML=h;
     minu.innerHTML=min;
     sec.innerHTML=s
+
+
+    
+        
+        
     
 
     // console.log(d+' |'+h+'|'+min+'|'+s)
 }
 
 
-setInterval(contDown,1000)
+
+setInterval(contDown,1000);
+
+
+
+
