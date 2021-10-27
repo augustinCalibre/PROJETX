@@ -31,7 +31,7 @@ const sec = document.getElementById("sec");
 
 const currentYear=new Date().getFullYear();
 
-const peaceDay= new Date(`November 11 ${currentYear} 00:00:00`);
+const peaceDay= new Date(`November 15 ${currentYear} 00:00:00`);
 
 
 
