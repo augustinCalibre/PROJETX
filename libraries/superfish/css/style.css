@@ -1,19 +1,14 @@
 
 
- .map-svg polygon{
+ /* .map-svg polygon{
     
     stroke: #FFF;
     stroke-width: 3px;
     width:50%;
-  }
+  } */
   
   
-  .map-svg path:hover,.map-svg polygon:hover{
-      fill:#05570c;
-      stroke: #FFF;
-      stroke-width: 3px;
-      transition: fill 1S;
-    }
+  
 
 
     #H {
@@ -34,6 +29,17 @@
       -moz-background-size: cover;
       -o-background-size: cover;
       background-size: cover;
+    }
+
+
+    #yakro{
+      fill:#05570c;
+      stroke: #FFF;
+      stroke-width: 3px;
+      transition: fill 1S;
+
+
+
     }
     /* .main-menu__item-link{ color: orange !important;}  */
     /* .region-navigation{background-color: #fd7e14; color: white !important;} */
