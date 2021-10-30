@@ -66,4 +66,30 @@ setInterval(contDown,1000);
 
 
 
+// <!-- LIve streaming -->
+
+            // <div class="views-element-container block block-views block-views-blockquotes-slider-block-1" id="block-views-block-quotes-slider-block-1">
+            //     <div>
+            //         <div class="quote-block module-m-y-2 view view-quotes-slider view-id-quotes_slider view-display-id-block_1 js-view-dom-id-13d621b12d91a93ec0800d506fb8c8538b32bedf2c0411b13a0210217a761df2">
+            //             <div class="view-content">
+            //                 <div class="views-view-grid horizontal cols-12 clearfix">
+            //                     <div class="item views-row clearfix row-1">
+            //                         <div>
+            //                             <div class="views-field views-field-nothing">
+            //                                 <span class="field-content">
+            //                                     <div class="container-fluid_offset"  id="H">
+            //                                         <iframe width="1500px" height="500px" src="https://www.youtube.com/embed/7RjPcCaqZgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            //                                     </div>
+            //                                 </span>
+            //                             </div>
+            //                         </div>
+            //                     </div>
+            //                 </div>
+            //             </div>
+            //         </div>
+            //     </div>
+            // </div>
+
+
+
 
